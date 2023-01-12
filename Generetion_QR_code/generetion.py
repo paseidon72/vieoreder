@@ -12,8 +12,8 @@ def get_qrcode(url='https://google.com', name='default'):
 
 
 def main():
-    print(get_qrcode(url='https://www.youtube.com/c/PythonToday/videos', name='youtube'))
-    print(get_qrcode(url='https://instagram.com', name='instagram'))
+    print(get_qrcode(url='https://www.elitnoe.com.ua/', name='suit'))
+    print(get_qrcode(url='https://www.instagram.com/andrei.postovoiy/', name='instagram'))
 
 
 if __name__ == '__main__':
